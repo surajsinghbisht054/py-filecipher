@@ -1,22 +1,11 @@
-# py-filecipher
-
-# Python  Script For Encrypting/Decrypting Files Using AES 256-bit
-
-For More Updates:
-	please Visit My Blog: https://hackworldwithssb.blogspot.in
-
-######################################################
-				By S.S.B Group							
-######################################################
-
+### Python  Script For Encrypting/Decrypting Files Using AES 256-bit
+```
 	Suraj Singh
 	Admin
 	S.S.B Group
 	surajsinghbisht054@gmail.com
 	https://hackworldwithssb.blogspot.in
-
-	Note: We Feel Proud To Be Indian
-######################################################
+```
 
 # Dependency
 pycrypto
